@@ -8,3 +8,5 @@ https://github.com/solidusio/solidus/blob/main/api/lib/spree/api_configuration.r
 https://github.com/solidusio/solidus/blob/main/backend/lib/spree/backend_configuration.rb
 
 https://guides.rubyonrails.org/i18n.html
+
+stripe card https://stripe.com/docs/testing
